@@ -1,1 +1,2 @@
-export TERMINAL=wezterm
+export TERMINAL="wezterm"
+export BROWSER="firefox"
